@@ -27,10 +27,10 @@ Este repositorio contiene un análisis exploratorio de ventas para cuatro tienda
 ## Dataset
 
 Los datos se cargan directamente desde GitHub (Alura Latam), para las 4 tiendas:
-- `tienda_1.csv`
-- `tienda_2.csv`
-- `tienda_3.csv`
-- `tienda_4.csv`
+- `tienda.csv`
+- `tienda2.csv`
+- `tienda3.csv`
+- `tienda4.csv`
 
 Columnas principales:
 - `Producto`, `Categoría del Producto`, `Precio`, `Costo de envío`, `Fecha de Compra`,
